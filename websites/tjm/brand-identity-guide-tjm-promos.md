@@ -93,30 +93,36 @@ Our brand personality can be described as:
 
 ## Visual Identity
 
-### Logo System
+**Logo System**
 
-#### Primary Logo
+### Primary Logo
 
-<img src="./logos/tjm-logo-black.svg" width="300" alt="Primary Logo with black text"> 
+<img src="./logos/tjm-logo-primary-color-black.svg" width="300" alt="Primary Logo with black text"> 
 
 **Description:**  
-###### Primary Logo Overview ###### 
+
 The TJM Promos logo is a clean, modern wordmark accompanied by a row of colorful, icon-based tiles that visually represent the promotional products industry.
-###### Wordmark ###### 
+
+###### Wordmark 
+
 - “TJM” appears in bold, black, sans-serif uppercase letters.
 - “PROMOS” sits beneath the icon row, aligned right, in a smaller sans-serif typeface.
 - The typography has a contemporary, geometric feel that conveys stability and professionalism.
-###### Icon Strip ######  
+
+###### Icon Strip
+
 A series of four square tiles sits above the word PROMOS, to the right of “TJM.”
 Each tile uses a bright, vibrant color and contains a simple white silhouette of a promotional product:
-1. Pink Tile (#EC008C) Icon: Baseball cap  
+
+1. Magenta Tile (#EC008C) Icon: Baseball cap  
 2. Cyan Tile (#007AFF) Icon: T-shirt  
 3. Yellow Tile (#FFC107) Icon: Pen  
 4. Green Tile (#4CD964) Icon: Mug or drinkware  
 
 - *These icons reinforce the brand’s core product categories and add energy to the design.*
 
-###### Visual Style ######  
+###### Visual Style
+
 - Bold and clean with high contrast between the black wordmark and the colorful tiles.
 - Flat design — no gradients, shadows, or textures.
 - Iconography style: Simple silhouettes with rounded, friendly edges.
@@ -134,53 +140,63 @@ Each tile uses a bright, vibrant color and contains a simple white silhouette of
 - Vector: `.svg`
 - Raster: `.png` (transparent)
 
-#### Logo Variations
+___
 
-**Horizontal Version:**
+### Logo Variations
+
+
+#### Horizontal (Primary) Version
+
+<img src="./logos/tjm-logo-primary-color-black.svg" width="300" alt="Primary Logo with black text">  
+
+**Description:**
+
 See Primary description above.
 
-<img src="./logos/tjm-logo-black.svg" width="300" alt="Primary Logo with black text">  
+#### When to Use the Horizontal (Primary) Logo  
 
-#### When to Use the Horizontal (Primary) Logo ####  
-Use the stacked logo when the design space benefits from a tall, centered, or compact footprint, including:
+Use the horizontal logo when the layout benefits from a wide, low-profile format.
 
-** ✔ Social Media Profiles ** 
+**✔ Website Headers & Navigation Bars**
 
-- Square or near-square spaces (e.g., Instagram, Facebook, LinkedIn profile icons)
-- The stacked format maintains readability even at smaller sizes.
+- Areas with limited vertical space
+- Provides better alignment with horizontal interface elements.
 
-✔ Branded Merchandise
+**✔ Email Signatures**
 
-Items with a centered logo placement (e.g., notebooks, drinkware, patches)
+- Fits well next to text without disrupting line height.
 
-Surfaces where height is available but width is limited.
+**✔ Vehicle Graphics**
 
-✔ Print Materials
+- Long, narrow spaces such as door panels or banners.
 
-Flyers, posters, or banners that require a centered and prominent logo
+**✔ Branded Apparel**
 
-Layouts where a vertical orientation maintains balance and hierarchy.
+- Left-chest embroidery or screen printing
 
-✔ Web & Digital
+- Horizontal orientation typically improves clarity at small sizes.
 
-Mobile layouts with narrow horizontal space
-
-Website footers or areas where a block-style brandmark is preferred.
+___
 
 
-**Vertical Version:**  
+#### Vertical (Stacked) Version:
+
+
+
+<img src="./logos/tjm-logo-stacked-color-black.svg" width="300" alt="Stacked Logo with black text">  
+
+**Description:** 
+
 The stacked version of the TJM Promos logo presents a vertically arranged composition designed for compact or centered layouts.
-
-<img src="./logos/tjm-logo-stacked-black.svg" width="300" alt="Stacked Logo with black text">  
 
 ###### Icon Row ######
 
 At the top of the logo is a horizontal row of four square product-category tiles, each containing a white silhouette icon:
 
-1. Pink Tile (#EC008C) Icon: Baseball cap
-2. Cyan Tile (#00AEEF) Icon: T-shirt
-3. Yellow Tile (#FBB040) Icon: Pen
-4. Green Tile (#8DC63F) Icon: Mug/drinkware
+1. Magenta Tile (#EC008C) Icon: Baseball cap
+2. Cyan Tile (#007AFF) Icon: T-shirt
+3. Yellow Tile (#FFC107) Icon: Pen
+4. Green Tile (#4CD964) Icon: Mug or drinkware
 
 *The tiles are rounded-corner squares with bold, flat color fills. The icons are simple, clean silhouettes aligned centrally within each tile.*
 
@@ -198,10 +214,131 @@ Below the icon row sits the stacked wordmark:
 - Clean, flat iconography with vibrant accent colors balanced by a bold, dark wordmark.
 - Ideal for square, centered, or vertically constrained layouts.
 
-**Logomark/Icon/Symbol Only:**
-[Description and when to use - typically for social media profiles, favicons, app icons]
+#### When to Use the Vertical (Stacked) Logo
+
+Use the stacked logo when the design space benefits from a tall, centered, or compact footprint, including:
+
+**✔ Social Media Profiles**
+
+- Square or near-square spaces (e.g., Instagram, Facebook, LinkedIn profile icons)
+- The stacked format maintains readability even at smaller sizes.
+
+**✔ Branded Merchandise**
+
+- Items with a centered logo placement (e.g., notebooks, drinkware, patches)
+- Surfaces where height is available but width is limited.
+
+**✔ Print Materials**
+
+- Flyers, posters, or banners that require a centered and prominent logo
+- Layouts where a vertical orientation maintains balance and hierarchy.
+
+**✔ Web & Digital**
+
+- Mobile layouts with narrow horizontal space
+- Website footers or areas where a block-style brandmark is preferred.
+
+___
+
+
+
+### Logomark/Icon/Symbol Only:
+
+#### Logomark With Icons (Four Tiles + Product Icons)
+
+<img src="./icons/tjm-logo-mark-icons.svg" width="300" alt="Logomark With Icons (Four Tiles + Product Icons)">  
+
+**Description:**
+
+This logomark consists of a 2×2 grid of vibrant square tiles, each with rounded corners and a bold, flat fill color. Each tile contains a simplified white silhouette representing a core promotional product category:
+
+1. Magenta Tile (#EC008C) Icon: Baseball cap
+2. Cyan Tile (#007AFF) Icon: T-shirt
+3. Yellow Tile (#FFC107) Icon: Pen
+4. Green Tile (#4CD964) Icon: Mug or drinkware
+
+The color palette is bright, energetic, and instantly recognizable as TJM Promos. The white icon silhouettes are clean, centered, and evenly sized, creating a balanced and friendly visual presence.
+
+**Character & Purpose**
+
+- Highly recognizable and brand-distinctive
+- Communicates “promotional products” at a glance
+- Works at moderate to small sizes while retaining legibility
+
+#### When to Use the Icon Logomark (Tiles + Icons)
+
+Ideal when you want strong brand recognition and when icon detail will remain clear.
+
+**Recommended Uses**
+
+- Social Media Profile Images
+  - Facebook, LinkedIn, Instagram, YouTube
+  - Creates instant recognition and communicates industry visually
+
+- App Icons
+  - Mobile or desktop app symbols where detail is still readable
+
+- Marketing Materials
+  - Stickers, badges, internal graphics, or digital stamps
+
+- Branded Merch
+  - Embroidery, patches, packaging, etc., where moderate detail is acceptable
+
+**Avoid When**
+
+- The size will become too small for icons to remain legible
+- Overly complex backgrounds disrupt the white silhouettes
+
+___
+
+#### Non-Icon Logomark (Color Tiles Only)
+
+<img src="./icons/tjm-logo-mark.svg" width="300" alt="Non-Icon Logomark (Color Tiles Only)">  
+
+**Description:**
+
+This version displays the same 2×2 grid of rounded-square tiles in TJM’s signature magenta, blue, yellow, and green—but without the white product icons. It is a purely abstract representation of the brand’s visual identity.
+
+The simplified form increases scalability and versatility while maintaining strong brand association through color and layout.
+
+**Character & Purpose**
+
+- Minimal, modern, and clean
+- Highest legibility at very small sizes
+- Allows color to become the primary brand signal without requiring icon detail
+
+#### When to Use the Non-Icon Logomark (Color Tiles Only)
+
+This version excels in extremely small uses or minimal design applications where clarity is essential.
+
+
+**Recommended Uses**
+
+- Favicons / Browser Tabs
+  - Best choice because icons may be too small to read at 16×16 or 32×32 pixels
+
+- Mobile App Favicons / PWA Icons
+- Watermarks or Background Graphics
+  - Subtle and clean without distracting details
+- Small UI Elements
+  - Buttons, badges, or tight layouts
+
+- High-contrast or busy backgrounds
+  - Simplified shape maintains visibility
+
+**Avoid When**
+
+- The mark needs to communicate product categories or identity on its own
+(Use the icon version for more expressive branding)
+
+___
 
 **Monochrome Versions:**
+
+<img src="./logos/tjm-logo-primary-black.svg" width="300" alt="Primary logo black">  
+<img src="./logos/tjm-logo-primary-white.svg" width="300" alt="Primary logo white">  
+<img src="./logos/tjm-logo-stacked-black.svg" width="300" alt="Primary logo white">  
+
 - Black on white
 - White on black
 - Single color applications
